@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm jose Manuel</h1>
 <h3 align="center">A passionate fullStack Developer from the USA</h3>
-<img src='https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif'/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josemhernandez&label=Profile%20views&color=0e75b6&style=flat" alt="josemhernandez" /> </p>
